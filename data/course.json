@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Fine Arts",
+      "Architecture"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "legacy_uid": "12ddcdcc-8279-9821-cded-601b4a22b697",
+  "instructors": {
+    "content": [
+      "9c6aac32-dd77-b9d8-31d5-4cba0d370202"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "13664d32-49e1-3fa5-f9c5-229f1fed9422",
+    "website": "4-s26-territory-spatial-reification-of-power-spring-2016"
+  },
+  "course_title": "Territory: Spatial Reification of Power",
+  "course_description": "This course proposes that investigating the ways in which territory is produced, maintained and strategized, generates conflicts, establishes divisions, and builds identities can lead to a more critical understanding of architecture's role in society. This course is designed to expand the student's literacy in the concept of territory and its relation to the realm of architecture.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.S26",
+  "course_image_thumbnail": {
+    "content": "bd8c17a4-2fa3-294b-23e5-0192db81cf73",
+    "website": "4-s26-territory-spatial-reification-of-power-spring-2016"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments",
+    "Activity Assignments"
+  ],
+  "site_uid": "afbdc3ea-c4a8-4a71-bb4c-34bae74bdf59",
+  "site_short_id": "4.s26-spring-2016",
+  "title": "Course Metadata"
+}
